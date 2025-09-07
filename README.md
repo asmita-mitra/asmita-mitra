@@ -6,7 +6,7 @@
 
 ## GitHub Stats 📊
 
-![Asmita's GitHub stats](https://github-readme-stats.vercel.app/api?username=asmita-mitra&show_icons=true&theme=dracula&cache_seconds=1800)
+![Asmita's GitHub stats](https://github-readme-stats.vercel.app/api?username=asmita-mitra&show_icons=true&theme=dracula&cache_seconds=180)
 
 ## Tech Stack 💡
 
